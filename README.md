@@ -28,6 +28,12 @@
 * Hover over a listed user to delete or visit their page.
 * Spruces up your Reddit experience by making orange and perrywinkle arrows appear, like MAGIC.
 
+#Installation
+* Have Tampermonkey / Greasemonkey installed
+* [Copy This Script](https://raw.githubusercontent.com/PaperElectron/Vote-O-Matic/master/vote-o-matic.js)
+* Paste it into a new userscript in TM/GM
+* Reload your reddit links. 
+
 ## Roadmap
 * 0.0.1 - You are looking at it.
 * 0.0.2 - Add vote all buttons to user hover. Currently need to add them and delete them for the same effect.
@@ -43,7 +49,7 @@ Even then, no guarantees.
 Please use this extension responsibly. While I don't feel as though this extension violates Reddits rules they may feel differently.
 
 Please do not use this extension to manipulate reddits voting system, that would definitely violate
-the Reddit User Agreement. 
+the Reddit User Agreement.
 
 Please limit the amount of users you add to this extension to a reasonable amount
 (probably less than 50 at any given time, for performace reasons).
