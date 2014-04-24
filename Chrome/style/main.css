@@ -1,0 +1,102 @@
+.vom-main {
+    width: 100%;
+    font-size: 10px;
+    height: auto;
+    background-color: whitesmoke;
+    position: relative;
+    padding: 5px 10px 0px 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid grey;
+    clear: both;
+}
+.vom-dialog {
+    /*text-align: center;*/
+    height: 100%;
+
+}
+.vom-dialog ul {
+    width: 75%;
+    margin: auto;
+    font-size: 12px;
+    line-height: 200%;
+}
+.vom-dialog ul li {
+    text-align: center;
+}
+.vom-dialog ul li a {
+    color: dodgerblue;
+}
+.vom-dialog ul li a:hover {
+    text-decoration: underline;
+}
+.vom-dialog-dots {
+    text-align: center;
+    font-size: 40px;
+    margin: 0px 0px 10px 0px;
+    color: darkgrey;
+}
+.vom-right {
+    float: left;
+    width: 85%;
+    /*margin-bottom: 5px;*/
+ }
+.vom-left {
+    width: 15%;
+    margin-left: 85%;
+    /*margin-bottom: 5px;*/
+}
+.vom-clear {
+    clear: both;
+}
+.vom-userUi {
+    display: block;
+    font-weight: bold;
+    clear: left;
+    margin-bottom: 5px;
+}
+.goodNotification {
+    display: block;
+    margin-bottom: 1px;
+
+}
+.badNotification {
+    display: block;
+    margin-bottom: 1px;
+
+}
+.vom-separator {
+    display: block;
+    padding: 3px 2px;
+    margin: 0 2px;
+    float: left;
+    font-weight: bold;
+}
+
+.vom-inlineList ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+}
+
+.vom-inlineList li{
+    float: left;
+    margin: 0 2px;
+    font-weight: bold;
+    display: block;
+}
+
+.vom-info ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+}
+.vom-info li {
+    font-size: 12px;
+    float: left;
+    margin: 0 2px;
+    display: block;
+    /*margin-bottom: 10px;*/
+}
