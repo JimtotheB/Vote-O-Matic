@@ -32,7 +32,7 @@
 * Have Tampermonkey / Greasemonkey installed
 * [Copy This Script](https://raw.githubusercontent.com/PaperElectron/Vote-O-Matic/master/vote-o-matic.js)
 * Paste it into a new userscript in TM/GM
-* Reload your reddit links. 
+* Reload your reddit links.
 
 ## Roadmap
 * 0.0.1 - You are looking at it.
